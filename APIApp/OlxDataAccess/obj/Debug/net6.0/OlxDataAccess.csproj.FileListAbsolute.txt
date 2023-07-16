@@ -1,0 +1,14 @@
+M:\iti.net\project\Server side\Server-Side\APIApp\OlxDataAccess\bin\Debug\net6.0\OlxDataAccess.deps.json
+M:\iti.net\project\Server side\Server-Side\APIApp\OlxDataAccess\bin\Debug\net6.0\OlxDataAccess.runtimeconfig.json
+M:\iti.net\project\Server side\Server-Side\APIApp\OlxDataAccess\bin\Debug\net6.0\OlxDataAccess.dll
+M:\iti.net\project\Server side\Server-Side\APIApp\OlxDataAccess\bin\Debug\net6.0\OlxDataAccess.pdb
+M:\iti.net\project\Server side\Server-Side\APIApp\OlxDataAccess\obj\Debug\net6.0\OlxDataAccess.csproj.AssemblyReference.cache
+M:\iti.net\project\Server side\Server-Side\APIApp\OlxDataAccess\obj\Debug\net6.0\OlxDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+M:\iti.net\project\Server side\Server-Side\APIApp\OlxDataAccess\obj\Debug\net6.0\OlxDataAccess.AssemblyInfoInputs.cache
+M:\iti.net\project\Server side\Server-Side\APIApp\OlxDataAccess\obj\Debug\net6.0\OlxDataAccess.AssemblyInfo.cs
+M:\iti.net\project\Server side\Server-Side\APIApp\OlxDataAccess\obj\Debug\net6.0\OlxDataAccess.csproj.CoreCompileInputs.cache
+M:\iti.net\project\Server side\Server-Side\APIApp\OlxDataAccess\obj\Debug\net6.0\OlxDataAccess.dll
+M:\iti.net\project\Server side\Server-Side\APIApp\OlxDataAccess\obj\Debug\net6.0\refint\OlxDataAccess.dll
+M:\iti.net\project\Server side\Server-Side\APIApp\OlxDataAccess\obj\Debug\net6.0\OlxDataAccess.pdb
+M:\iti.net\project\Server side\Server-Side\APIApp\OlxDataAccess\obj\Debug\net6.0\OlxDataAccess.genruntimeconfig.cache
+M:\iti.net\project\Server side\Server-Side\APIApp\OlxDataAccess\obj\Debug\net6.0\ref\OlxDataAccess.dll

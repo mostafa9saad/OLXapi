@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "+DRm9Uc+i86RKv6TjqqlHemO+pXb02yraiA2M8IxxOU=",
+  "Source": "APIApp",
+  "BasePath": "_content/APIApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APIApp\\wwwroot",
+      "Source": "APIApp",
+      "ContentRoot": "M:\\iti.net\\project\\Server side\\Server-Side\\APIApp\\APIApp\\wwwroot\\",
+      "BasePath": "_content/APIApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "M:\\iti.net\\project\\Server side\\Server-Side\\APIApp\\APIApp\\wwwroot\\upload\\postImages\\0b43dcd0-d6e5-420b-89c8-55130da3e5bf-IMG_E9956.JPG",
+      "SourceId": "APIApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\iti.net\\project\\Server side\\Server-Side\\APIApp\\APIApp\\wwwroot\\",
+      "BasePath": "_content/APIApp",
+      "RelativePath": "upload/postImages/0b43dcd0-d6e5-420b-89c8-55130da3e5bf-IMG_E9956.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\postImages\\0b43dcd0-d6e5-420b-89c8-55130da3e5bf-IMG_E9956.JPG"
+    },
+    {
+      "Identity": "M:\\iti.net\\project\\Server side\\Server-Side\\APIApp\\APIApp\\wwwroot\\upload\\postImages\\31410af5-2ed8-4f9c-95ae-33037250225c-IMG_E9956.JPG",
+      "SourceId": "APIApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\iti.net\\project\\Server side\\Server-Side\\APIApp\\APIApp\\wwwroot\\",
+      "BasePath": "_content/APIApp",
+      "RelativePath": "upload/postImages/31410af5-2ed8-4f9c-95ae-33037250225c-IMG_E9956.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\postImages\\31410af5-2ed8-4f9c-95ae-33037250225c-IMG_E9956.JPG"
+    },
+    {
+      "Identity": "M:\\iti.net\\project\\Server side\\Server-Side\\APIApp\\APIApp\\wwwroot\\upload\\postImages\\cff8d89e-57fa-4200-8406-31017e6486b1-IMG_E9956.JPG",
+      "SourceId": "APIApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\iti.net\\project\\Server side\\Server-Side\\APIApp\\APIApp\\wwwroot\\",
+      "BasePath": "_content/APIApp",
+      "RelativePath": "upload/postImages/cff8d89e-57fa-4200-8406-31017e6486b1-IMG_E9956.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\postImages\\cff8d89e-57fa-4200-8406-31017e6486b1-IMG_E9956.JPG"
+    }
+  ]
+}
